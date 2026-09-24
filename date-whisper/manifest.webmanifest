@@ -1,0 +1,11 @@
+{
+  "name": "Date Whisper · 约会邀请",
+  "short_name": "Date Whisper",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8f8",
+  "theme_color": "#fff6f7",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
